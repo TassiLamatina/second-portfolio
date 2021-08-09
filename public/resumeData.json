@@ -1,0 +1,88 @@
+{
+  "main": {
+    "name":"Tassiana Lamatina",
+    "description":"Hi, I'm a full-stack software engineer based in Los Angeles. Check out my ever-growing portfolio",
+    "image":"aboutTemp.jpeg",
+    "contactImage": "contactTemporary.jpeg",
+    "bio":"I am a Software Engineer with experience in management and multi-language public speaking. I am passionate about clean, efficient code and the quality of work I provide. I utilize my background in customer service as a foundation in everything I do, always keeping the end-user in mind. My tools are Javascript, HTML, CSS, Node.js, Sequelize, React, PostgreSQL, MongoDB and RESTful JSON routing.",
+    "contactmessage":"Get a hold of me here:",
+    "email": "tassilamatina@gmail.com",
+    "github":"https://github.com/tassilamatina",
+    "linkedin":"https://www.linkedin.com/in/tassianalamatina",
+    "project":"other site",
+    "viewATSresume": "https://docs.google.com/document/d/1F6tSlGoKuqPIjQ8wpjkh0-UpyKB4X9xtt3d3V2uo3s8/edit?usp=sharing",
+    "viewdesignresume":"https://docs.google.com/document/d/1F6tSlGoKuqPIjQ8wpjkh0-UpyKB4X9xtt3d3V2uo3s8/edit?usp=sharing",
+    "ATSresumedownload":"files/Tassiana Lamatina Resume.pdf",
+    "designresumedowload":"files/Tassiana Lamatina Resume.pdf",
+    "location":{
+      "city":"Los Angeles",
+      "state":"CA"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tassilamatina",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/TassiLamatina",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tassianalamatina",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tassilamatina",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tassilamatina",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillitems":"•  JavaScript  •  HTML  •  Cascading Style Sheets (CSS)  •  Python  •  React   •  Node.js  •  Redux  •  PostgreSQL  •  Flask  •  Sequelize  •  Express.js  •  Object-Relational Mapping (ORM)  •  ODM  •  Business Operations  •  RESTful Routing JSON  • "
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Clambr",
+        "category":"A simplified job-search logging application.",
+        "image":"clambrpic.png",
+        "url":"https://clambr.netlify.app/",
+        "git":"https://github.com/TassiLamatina/mern-auth-client",
+        "about":"Full stack application made with RESTful API, React, Javascript, bootstrap, MongoDB, Express RESTful routes, axios, jsonWebtoken, bcrypt, Rowdy-Logger and Mongoose. "
+      },
+      {
+        "title":"Mollify",
+        "category":"An easy way to keep track of your to-do's.",
+        "image":"mollifypic.png",
+        "url":"https://mollify.netlify.app/",
+        "github":"https://github.com/TassiLamatina/mollify-client",
+        "about":"MERN application built with RESTful routes and API, React, Javascript, MongoDB, bootstrap, JsonWebtoken and Styled Components.  "
+      },
+      {
+        "title":"Best Buy Deals",
+        "category":"Full-stack application that allows users to search special deals within the Best Buy API.",
+        "image":"bestbuypic.png",
+        "url":"https://bestbuy-deals.herokuapp.com/",
+        "github":"https://github.com/TassiLamatina/project-2",
+        "about":"RESTful API fetch calls to an Express/Node.js backend that handles all CRUD operations. Backend routes tested using Postman. Layout made with HTML, CSS, Javascript, Bootstrap and Tailwind."
+      },
+      {
+        "title":"Simple Portfolio",
+        "category":"My most frequently used portfolio page.",
+        "image":"htmlportfolio.png",
+        "url":"https://bestbuy-deals.herokuapp.com/",
+        "github":"https://github.com/TassiLamatina/simple-portfolio",
+        "about":"A simple HTML, JavaScript, CSS and SASS single page application."
+      }
+    ]
+  }
+}
