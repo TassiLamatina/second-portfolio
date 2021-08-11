@@ -52,6 +52,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Simple Portfolio",
+        "category":"My most frequently used portfolio page.",
+        "image":"htmlportfolio.png",
+        "url":"https://www.tassianalamatina.com/",
+        "github":"https://github.com/TassiLamatina/simple-portfolio",
+        "about":"A simple HTML, JavaScript, CSS and SASS single page application."
+      },
+      {
         "title":"Clambr",
         "category":"A simplified job-search logging application.",
         "image":"clambrpic.png",
@@ -74,14 +82,6 @@
         "url":"https://bestbuy-deals.herokuapp.com/",
         "github":"https://github.com/TassiLamatina/project-2",
         "about":"RESTful API fetch calls to an Express/Node.js backend that handles all CRUD operations. Backend routes tested using Postman. Layout made with HTML, CSS, Javascript, Bootstrap and Tailwind."
-      },
-      {
-        "title":"Simple Portfolio",
-        "category":"My most frequently used portfolio page.",
-        "image":"htmlportfolio.png",
-        "url":"https://bestbuy-deals.herokuapp.com/",
-        "github":"https://github.com/TassiLamatina/simple-portfolio",
-        "about":"A simple HTML, JavaScript, CSS and SASS single page application."
       }
     ]
   }
